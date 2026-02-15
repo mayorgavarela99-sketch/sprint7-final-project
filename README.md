@@ -1,6 +1,6 @@
 # sprint7-final-project
 
-📡 Análisis de Telecomunicaciones: Estrategia ConnectaTel
+**📡 Análisis de Telecomunicaciones: Estrategia ConnectaTel**
 
 **🎯 Objetivo del Proyecto**
 El objetivo central de este análisis para ConnectaTel (operaciones en México y Colombia) es identificar patrones de uso y comportamientos atípicos en los servicios de llamadas y mensajes. Buscamos comprender las necesidades de los distintos segmentos de clientes para optimizar la oferta comercial y mejorar la experiencia del usuario final.
