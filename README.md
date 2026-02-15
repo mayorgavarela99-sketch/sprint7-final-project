@@ -1,6 +1,6 @@
 # sprint7-final-project
 
-##**📡 Análisis de Telecomunicaciones: Estrategia ConnectaTel**
+**📡 Análisis de Telecomunicaciones: Estrategia ConnectaTel**
 
 **🎯 Objetivo del Proyecto**
 El objetivo central de este análisis para ConnectaTel (operaciones en México y Colombia) es identificar patrones de uso y comportamientos atípicos en los servicios de llamadas y mensajes. Buscamos comprender las necesidades de los distintos segmentos de clientes para optimizar la oferta comercial y mejorar la experiencia del usuario final.
@@ -8,11 +8,11 @@ El objetivo central de este análisis para ConnectaTel (operaciones en México y
 **📊 Datasets Utilizados**
 Para construir esta visión 360°, integramos tres fuentes de datos principales:
 
-plans.csv: Catálogo de planes, precios y beneficios de minutos/GB.
+- plans.csv: Catálogo de planes, precios y beneficios de minutos/GB.
 
-users_latam.csv: Información demográfica (edad, ciudad) y contractual de los clientes.
+- users_latam.csv: Información demográfica (edad, ciudad) y contractual de los clientes.
 
-usage.csv: Detalle del uso real de servicios (duración de llamadas y longitud de mensajes).
+- usage.csv: Detalle del uso real de servicios (duración de llamadas y longitud de mensajes).
 
 **🛠️ Etapas del Análisis**
 El proyecto se ejecutó siguiendo un flujo de trabajo de Ciencia de Datos:
